@@ -1,10 +1,12 @@
+📄 README.md
+markdown
+Copiar
+Editar
 # 🚀 Rick & Morty Character Finder
 
 Una aplicación moderna construida con **React + Vite** que consume la API pública de **Rick and Morty** para buscar, visualizar y guardar personajes favoritos. ¡Con un diseño animado y estilizado usando Tailwind CSS 3.5!
 
-## 🖼️ Vista previa
 
-![Preview](./src/assets/preview.png) <!-- Cambiá o eliminá si no tenés la imagen -->
 
 ## ✨ Funcionalidades
 
@@ -25,6 +27,7 @@ Una aplicación moderna construida con **React + Vite** que consume la API públ
 - 🔔 React Toastify
 
 
+
 ## 📁 Instalación
 
 ```bash
@@ -32,9 +35,8 @@ git clone https://github.com/Emanuel-Isaias-M/React4-tp-4
 cd React4-tp-4
 npm install
 npm run dev
+La app estará corriendo en http://localhost:5173.
 
-
-
-
-
-https://react-4-tp4.netlify.app/
+🌐 Deploy
+La app está desplegada en Netlify:
+[🔗 https://nombre-de-tu-app.netlify.app ](https://react-4-tp4.netlify.app/)
