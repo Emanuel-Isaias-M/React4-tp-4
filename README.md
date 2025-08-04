@@ -1,7 +1,3 @@
-📄 README.md
-markdown
-Copiar
-Editar
 # 🚀 Rick & Morty Character Finder
 
 Una aplicación moderna construida con **React + Vite** que consume la API pública de **Rick and Morty** para buscar, visualizar y guardar personajes favoritos. ¡Con un diseño animado y estilizado usando Tailwind CSS 3.5!
