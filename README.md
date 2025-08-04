@@ -32,3 +32,9 @@ git clone https://github.com/Emanuel-Isaias-M/React4-tp-4
 cd React4-tp-4
 npm install
 npm run dev
+
+
+
+
+
+https://react-4-tp4.netlify.app/
