@@ -24,9 +24,6 @@ Una aplicación moderna construida con **React + Vite** que consume la API públ
 - 🔃 React Router DOM
 - 🔔 React Toastify
 
-## 📸 Captura
-
-![App Screenshot](./src/assets/screenshot.png) <!-- O cambialo por una ruta válida -->
 
 ## 📁 Instalación
 
