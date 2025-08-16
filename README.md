@@ -33,6 +33,4 @@ npm install
 npm run dev
 La app estará corriendo en http://localhost:5173.
 
-🌐 Deploy
-La app está desplegada en Netlify:
-[🔗 https://nombre-de-tu-app.netlify.app ](https://react-4-tp4.netlify.app/)
+
